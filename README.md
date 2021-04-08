@@ -5,7 +5,7 @@ Valid Codes Must Have:
 - At least 10 characters (some codes have more than 10 characters)
 - Positions 4 through 7 must be digits
 - The character in the 10th position must be a capital letter
-- 
+
 Expected Output:
 - An array of Valid Outputs
 - An array of Invalid Outputs
